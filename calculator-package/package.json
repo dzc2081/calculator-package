@@ -1,0 +1,16 @@
+{
+  "name": "calculator-package",
+  "version": "1.0.0",
+  "description": "A simple calculator package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "keywords": ["calculator", "math"],
+  "author": "dzc2081",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzc2081/calculator-package.git"
+  }
+}
